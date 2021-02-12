@@ -15,3 +15,7 @@ docker build py101 .
 ```
 docker run -it py101
 ```
+
+```
+./python
+```
